@@ -1,5 +1,7 @@
 TRABAJO 01: OPTIMIZACION HEURISTICA
 
+Se trabajaron dos libretas ipynb separadas para la solucion de este trabajo, una para cada punto.
+
 IRNA Trabajo 01 - Punto 1.ipynb:
 Se ejecuta el codigo secuencialmente y en el mismo orden segun se presenta la informacion en la notebook asociada al proyecto de acuerdo a los requerimienetos del primer punto para las funciones Rosenbrock y Rastrigin.
 
